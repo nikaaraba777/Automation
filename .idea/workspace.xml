@@ -5,22 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13c4b1dd-49e5-4987-850f-e06cebffcd46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nikaaraba777/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumber.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cucumber.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/definitions/Stepdefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/features/myfeatures.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/log.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/support/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/support/TestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/support/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucumber.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumber.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cucumber.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumber.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/definitions/Stepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/definitions/Stepdefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/myfeatures.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/myfeatures.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/log.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/log.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/support/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/support/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/support/TestContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/support/TestContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/support/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/support/TestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,5 +199,16 @@
       <updated>1722698265623</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
